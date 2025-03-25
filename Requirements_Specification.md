@@ -5,6 +5,8 @@ The game will allow people to play through a story that is similar to that of th
 The game is designed to engage fans within the genre and also be engaging to people who aren't fans of the book or genre and possibly lead them toward reading the book or others in the genre.
 
 Use Cases:
+1; Users will choose one of the characters to play as which will influence certain events in the game. They will select to play a new game and then they will be able to choose between characters and play as those characters throughout the game.
+2; Users will be able to interact with non player characters in the game.
 3; Users will be able to use the a and d keys to move left and right as well as w or spacebar for jumping.
 4; Users will be able to interact with certain objects/characters with the e key
 
