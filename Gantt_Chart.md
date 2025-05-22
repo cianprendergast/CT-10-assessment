@@ -1,1 +1,1 @@
-![Gantt Chart]](<Gantt chart.png>)
+![Gantt Chart](<Gantt chart.png>)
