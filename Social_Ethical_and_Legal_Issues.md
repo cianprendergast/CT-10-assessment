@@ -25,4 +25,7 @@ The book contains a somewhat controversial topic, which is children being sepera
 Legal Considerations:
 
 Copyright and Intellectual Property;
-I will create original assets and I will try to use the characters from the book, however, if I am unable to use them due to copyright, then the characters will also be changed to be original.
+I will create original assets and I will try to use the characters from the book, however, if I am unable to use them due to copyright, then the characters will also be changed to be original. However the general theme of the game will be the same as the book.
+
+Terms of Use
+There may be some copyght of characters if I were to release the game, however apart from that, there really isn't much other copyright consideration.
